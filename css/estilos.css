@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
+body {
+	max-width: 100%;
+	font-family: "Noto Sans", "sans-serif";
+
+}
+
+.encabezado {
+	background-color: #1abc9c;
+}
+
+.encabezado a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.encabezado p {
+	color: #fff;
+	text-decoration: none;
+}
+
+span {
+	color: #1abc9c;
+}
+
+.menu h1 {
+	font-size: 2rem;
+	padding: 2rem;
+}
+
+.menu a {
+	padding: 2rem;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+
+}
+
+.menu a:hover {
+	color: #1abc9c;
+
+}
+
+.caja a {}
+
+.boton {
+	color: #1abc9c;
+}
+
+.parrafo h1 {
+	position: relative;
+	width: 30rem;
+	margin-top: -16rem;
+	margin-left: 10rem;
+	font-size: 2rem;
+}
+
+.icono h3 {
+	font-size: 1.25rem;
+	padding: 1rem;
+	font-weight: 600;
+}
+
+.icono p {
+	font-size: 1rem;
+	padding: 2rem;
+	text-align: justify;
+
+}
+
+.icono {
+	margin: 2rem;
+}
+
+.perso {
+	background-color: #e9f0fd;
+}
+
+.icono a {
+	font-size: 3rem;
+	color: black;
+	text-decoration: none;
+}
+
+.icono a:hover {
+	color: #57ceb6;
+}
+
+
+.icono h3:hover {
+	color: #57ceb6;
+}
+
+.producto {
+	margin-left: 2.7rem;
+	border: solid #323232;
+	width: 9rem;
+	background-color: #323232;
+	color: #fff;
+	text-align: center;
+	float: left;
+
+}
+
+.costo {
+
+	border: solid #8c8c8c;
+	width: 3.5rem;
+	background-color: #8c8c8c;
+	color: #fff;
+	text-align: center;
+	float: left;
+}
+
+.producto:hover {
+	background-color: #1abc9c;
+	border: solid #1abc9c;
+	cursor: pointer;
+}
+
+.costo:hover {
+	background-color: #7fd9c7;
+	border: solid #7fd9c7;
+	cursor: pointer;
+}
+
+.cuadro {
+	border: solid #8c8c8c;
+	width: 10rem;
+	background-color: #fff;
+	padding: 0.25rem;
+	text-align: center;
+	float: left;
+	font-size: 0.75rem;
+	display: inline-block;
+}
+
+.cuadro:hover {
+	background-color: #1abc9c;
+	border: solid #1abc9c;
+	color: #fff;
+}
+
+
+
+.cosas .producto {
+	margin-left: 2.7rem;
+	border: solid #323232;
+	width: 9rem;
+	background-color: #323232;
+	color: #fff;
+	text-align: center;
+	float: left;
+	margin-left: 0;
+
+}
+
+.cosas .costo {
+	margin-left: 0;
+	border: solid #8c8c8c;
+	width: 3.1rem;
+	background-color: #8c8c8c;
+	color: #fff;
+	text-align: center;
+	float: left;
+}
+
+.cosas .producto:hover {
+	background-color: #1abc9c;
+	border: solid #1abc9c;
+	cursor: pointer;
+}
+
+.cosas .costo:hover {
+	background-color: #7fd9c7;
+	border: solid #7fd9c7;
+	cursor: pointer;
+}
+
+.parrafo2 h1 {
+	position: relative;
+	width: 30rem;
+	text-align: center;
+	margin-left: 16rem;
+	margin-top: -15rem;
+	font-weight: 600;
+
+}
+
+.parrafo2 p {
+	text-align: center;
+	margin-right: 22rem;
+}
+
+.colorh5 {
+	color: #7fd9c7;
+}
+
+.busqueda {
+	margin-bottom: 10rem;
+	width: 30rem;
+	text-align: center;
+	margin-left: 14rem;
+}
+
+.busqueda h1,
+p,
+img {
+	color: #666;
+
+}
+
+.busqueda p {
+	padding-top: 0.1rem;
+	color: #fff;
+}
+
+input {
+	color: #fff;
+	background-color: #1abc9c;
+	text-align: justify;
+	margin-right: 15rem;
+}
+
+.leer p {
+	text-align: justify;
+	padding: 1rem;
+
+}
+
+.linea2 {
+	text-align: left;
+	margin-right: 12rem;
+}
+
+.footer {
+	background-image: url("../img/fondo6.jpg");
+	color: #fff;
+
+}
+
+.footer p {
+	text-align: justify;
+	color: #fff;
+	padding: 2rem;
+}
+
+.footer li {
+	list-style: none;
+	text-align: justify;
+	font-size: 0.75rem;
+}
+
+.footer a {
+	margin-left: 1rem;
+
+	color: #fff;
+	border: solid #fff;
+	padding: 0.2rem;
+	text-decoration: none;
+	margin-bottom: 4rem;
+}
+
+.pato {
+	margin-top: 1rem;
+	margin-right: 16rem;
+}
+
+.pato a:hover {
+	background-color: #1abc9c;
+	border: solid #1abc9c;
+
+}
+
+.letra {
+	margin-right: 28rem;
+}
+
+.ultimo p {
+	color: #fff;
+	text-align: center;
+	padding: 1rem;
+}
+
+.ultimo {
+	margin-bottom: 4rem;
+}
+
+.lola {
+	margin-right: 36rem;
+	padding: 2rem;
+}
+
+.fono {
+	background-image: url("../img/fondo2.jpg");
+	height: 400px;
+
+}
+
+.fono p,
+h1 {
+	color: #fff;
+
+}
+
+.primero p {
+	border: solid #1abc9c;
+	color: #fff;
+}
+
+.tapa {
+	margin-right: 30rem;
+	border: solid ##1abc9c;
+
+	;
+}
+
+.segundo {
+	color: #666;
+}
